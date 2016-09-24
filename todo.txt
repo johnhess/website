@@ -1,9 +1,3 @@
-Make navbar white and non-shadowed
-
-Change hover color over navbar links to orange as in: http://web.archive.org/web/20141217174654/http://laurenicolesmith.com/
-
-Add grey line under navbar as in: http://web.archive.org/web/20141217174654/http://laurenicolesmith.com/
-
 Change spacing of text to look nice (and not overlap wth navbar)
 
 Change heading and paragraph text to match: http://web.archive.org/web/20141217174654/http://laurenicolesmith.com/
