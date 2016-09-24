@@ -1,5 +1,0 @@
-On "My Work": Make text take up middle three quarters (?) of screen
-
-On "Contact": Center text
-
-On "Contact": Center icons, no bullets, enlarged, all on one line
