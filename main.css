@@ -2,3 +2,27 @@ h1, h2, h3, h4, h5, p, a, li {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
 }
+
+/* Fixed navbar overlays content without this */
+body { padding-top: 70px; }
+
+/* center images */
+#profile-pic {
+	margin-bottom:20px;
+}
+
+
+/* footer magic */
+html, body {
+    height: 100%;
+}
+.non-footer {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -50px; /* the bottom margin is the negative value of the footer's height */
+}
+.footer, .push {
+    height: 50px; /* .push must be the same height as .footer */
+    color: #777;
+}
